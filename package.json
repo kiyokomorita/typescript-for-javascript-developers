@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
+    "dev": "ts-node-dev --respawn",
     "type": "git",
     "url": "git+https://github.com/kiyokomorita/typescript-for-javascript-developers.git"
   },
